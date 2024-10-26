@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 5,
+            "name": "Capa de Chuva",
+            "price": "50.50"
+        },
+        {
+            "id": 6,
+            "name": "Teclado",
+            "price": "110"
+        },
+        {
+            "id": 7,
+            "name": "Cadeira",
+            "price": "200"
+        }
+    ]
+}
